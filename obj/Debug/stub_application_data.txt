@@ -1,0 +1,2 @@
+android.app.Application
+Scan_Android.Scan_Android

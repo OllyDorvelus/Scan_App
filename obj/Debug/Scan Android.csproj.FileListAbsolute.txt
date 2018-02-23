@@ -1,0 +1,46 @@
+C:\Users\Travis\Documents\Visual Studio 2017\Projects\Scan Android\Scan Android\obj\Debug\Scan Android.csprojResolveAssemblyReference.cache
+C:\Users\Travis\Documents\Visual Studio 2017\Projects\Scan Android\Scan Android\obj\Debug\Scan Android.csproj.CoreCompileInputs.cache
+C:\Users\Travis\Documents\Visual Studio 2017\Projects\Scan Android\Scan Android\bin\Debug\Scan Android.dll
+C:\Users\Travis\Documents\Visual Studio 2017\Projects\Scan Android\Scan Android\bin\Debug\Scan Android.pdb
+C:\Users\Travis\Documents\Visual Studio 2017\Projects\Scan Android\Scan Android\bin\Debug\Scan_Android.Scan_Android.apk
+C:\Users\Travis\Documents\Visual Studio 2017\Projects\Scan Android\Scan Android\bin\Debug\Scan_Android.Scan_Android-Signed.apk
+C:\Users\Travis\Documents\Visual Studio 2017\Projects\Scan Android\Scan Android\obj\Debug\Scan Android.dll
+C:\Users\Travis\Documents\Visual Studio 2017\Projects\Scan Android\Scan Android\obj\Debug\Scan Android.pdb
+C:\Users\Travis\Documents\Visual Studio 2017\Projects\Scan Android\Scan Android\obj\Debug\android\bin\Scan_Android.Scan_Android.apk
+C:\Users\Travis\Documents\Visual Studio 2017\Projects\Scan Android\Scan Android\obj\Debug\res\layout\main.xml
+C:\Users\Travis\Documents\Visual Studio 2017\Projects\Scan Android\Scan Android\obj\Debug\res\values\strings.xml
+C:\Users\Travis\Documents\Visual Studio 2017\Projects\Scan Android\Scan Android\obj\Debug\res\mipmap-hdpi\icon.png
+C:\Users\Travis\Documents\Visual Studio 2017\Projects\Scan Android\Scan Android\obj\Debug\res\mipmap-mdpi\icon.png
+C:\Users\Travis\Documents\Visual Studio 2017\Projects\Scan Android\Scan Android\obj\Debug\res\mipmap-xhdpi\icon.png
+C:\Users\Travis\Documents\Visual Studio 2017\Projects\Scan Android\Scan Android\obj\Debug\res\mipmap-xxhdpi\icon.png
+C:\Users\Travis\Documents\Visual Studio 2017\Projects\Scan Android\Scan Android\obj\Debug\res\mipmap-xxxhdpi\icon.png
+C:\Users\Travis\Documents\Visual Studio 2017\Projects\Scan Android\Scan Android\obj\Debug\R.cs.flag
+C:\Users\Travis\Documents\Visual Studio 2017\Projects\Scan Android\Scan Android\obj\Debug\uploadflags.txt
+C:\Users\Travis\Documents\Visual Studio 2017\Projects\Scan Android\Scan Android\bin\Debug\Scan Android.dll.mdb
+C:\Users\Travis\Documents\Visual Studio 2017\Projects\Scan Android\Scan Android\obj\Debug\android\assets\Scan Android.dll.mdb
+C:\Users\Travis\Documents\Visual Studio 2017\Projects\Scan Android\Scan Android\obj\Debug\res\layout\scanpage.xml
+C:\Users\OllyD\Documents\Indiana Tech 2017\SE IV\Scan Android\Scan Android\obj\Debug\Scan Android.csproj.CoreCompileInputs.cache
+C:\Users\OllyD\Documents\Indiana Tech 2017\SE IV\Scan Android\Scan Android\obj\Debug\Scan Android.dll
+C:\Users\OllyD\Documents\Indiana Tech 2017\SE IV\Scan Android\Scan Android\obj\Debug\Scan Android.pdb
+C:\Users\OllyD\Documents\Indiana Tech 2017\SE IV\Scan Android\Scan Android\bin\Debug\Scan Android.dll
+C:\Users\OllyD\Documents\Indiana Tech 2017\SE IV\Scan Android\Scan Android\bin\Debug\Scan Android.pdb
+C:\Users\OllyD\Documents\Indiana Tech 2017\SE IV\Scan Android\Scan Android\bin\Debug\Scan_Android.Scan_Android.apk
+C:\Users\OllyD\Documents\Indiana Tech 2017\SE IV\Scan Android\Scan Android\bin\Debug\Scan_Android.Scan_Android-Signed.apk
+C:\Users\OllyD\Documents\Indiana Tech 2017\SE IV\Scan Android\Scan Android\obj\Debug\android\bin\Scan_Android.Scan_Android.apk
+C:\Users\OllyD\Documents\Indiana Tech 2017\SE IV\Scan Android\Scan Android\obj\Debug\res\layout\scanpage.xml
+C:\Users\OllyD\Documents\Indiana Tech 2017\SE IV\Scan Android\Scan Android\obj\Debug\res\layout\main.xml
+C:\Users\OllyD\Documents\Indiana Tech 2017\SE IV\Scan Android\Scan Android\obj\Debug\res\values\strings.xml
+C:\Users\OllyD\Documents\Indiana Tech 2017\SE IV\Scan Android\Scan Android\obj\Debug\res\mipmap-hdpi\icon.png
+C:\Users\OllyD\Documents\Indiana Tech 2017\SE IV\Scan Android\Scan Android\obj\Debug\res\mipmap-mdpi\icon.png
+C:\Users\OllyD\Documents\Indiana Tech 2017\SE IV\Scan Android\Scan Android\obj\Debug\res\mipmap-xhdpi\icon.png
+C:\Users\OllyD\Documents\Indiana Tech 2017\SE IV\Scan Android\Scan Android\obj\Debug\res\mipmap-xxhdpi\icon.png
+C:\Users\OllyD\Documents\Indiana Tech 2017\SE IV\Scan Android\Scan Android\obj\Debug\res\mipmap-xxxhdpi\icon.png
+C:\Users\OllyD\Documents\Indiana Tech 2017\SE IV\Scan Android\Scan Android\obj\Debug\R.cs.flag
+C:\Users\OllyD\Documents\Indiana Tech 2017\SE IV\Scan Android\Scan Android\obj\Debug\uploadflags.txt
+C:\Users\OllyD\Documents\Indiana Tech 2017\SE IV\Scan Android\Scan Android\obj\Debug\res\layout\quantitypage.xml
+C:\Users\OllyD\Documents\Indiana Tech 2017\SE IV\Scan Android\Scan Android\obj\Debug\res\layout\checkoutpage.xml
+C:\Users\OllyD\Documents\Indiana Tech 2017\SE IV\Scan Android\Scan Android\bin\Debug\Scan Android.dll.mdb
+C:\Users\OllyD\Documents\Indiana Tech 2017\SE IV\Scan Android\Scan Android\obj\Debug\android\assets\Scan Android.dll.mdb
+C:\Users\OllyD\Documents\Indiana Tech 2017\SE IV\Scan Android\Scan Android\obj\Debug\Scan Android.csprojResolveAssemblyReference.cache
+C:\Users\OllyD\Documents\Indiana Tech 2017\SE IV\Scan Android\Scan Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\OllyD\Documents\Indiana Tech 2017\SE IV\Scan Android\Scan Android\bin\Debug\Newtonsoft.Json.xml

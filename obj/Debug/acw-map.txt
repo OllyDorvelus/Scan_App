@@ -1,0 +1,20 @@
+Scan_Android.CheckoutPage, Scan Android;md582a9fe1fcb94b956ee6be44e48d1f3d1.CheckoutPage
+Scan_Android.CheckoutPage, Scan Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md582a9fe1fcb94b956ee6be44e48d1f3d1.CheckoutPage
+Scan_Android.CheckoutPage;md582a9fe1fcb94b956ee6be44e48d1f3d1.CheckoutPage
+scan_android.CheckoutPage;md582a9fe1fcb94b956ee6be44e48d1f3d1.CheckoutPage
+Scan_Android.Item, Scan Android;md582a9fe1fcb94b956ee6be44e48d1f3d1.Item
+Scan_Android.Item, Scan Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md582a9fe1fcb94b956ee6be44e48d1f3d1.Item
+Scan_Android.Item;md582a9fe1fcb94b956ee6be44e48d1f3d1.Item
+scan_android.Item;md582a9fe1fcb94b956ee6be44e48d1f3d1.Item
+Scan_Android.MainActivity, Scan Android;md582a9fe1fcb94b956ee6be44e48d1f3d1.MainActivity
+Scan_Android.MainActivity, Scan Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md582a9fe1fcb94b956ee6be44e48d1f3d1.MainActivity
+Scan_Android.MainActivity;md582a9fe1fcb94b956ee6be44e48d1f3d1.MainActivity
+scan_android.MainActivity;md582a9fe1fcb94b956ee6be44e48d1f3d1.MainActivity
+Scan_Android.QuantityPage, Scan Android;md582a9fe1fcb94b956ee6be44e48d1f3d1.QuantityPage
+Scan_Android.QuantityPage, Scan Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md582a9fe1fcb94b956ee6be44e48d1f3d1.QuantityPage
+Scan_Android.QuantityPage;md582a9fe1fcb94b956ee6be44e48d1f3d1.QuantityPage
+scan_android.QuantityPage;md582a9fe1fcb94b956ee6be44e48d1f3d1.QuantityPage
+Scan_Android.ScanPage, Scan Android;md582a9fe1fcb94b956ee6be44e48d1f3d1.ScanPage
+Scan_Android.ScanPage, Scan Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md582a9fe1fcb94b956ee6be44e48d1f3d1.ScanPage
+Scan_Android.ScanPage;md582a9fe1fcb94b956ee6be44e48d1f3d1.ScanPage
+scan_android.ScanPage;md582a9fe1fcb94b956ee6be44e48d1f3d1.ScanPage
